@@ -5,3 +5,5 @@ https://spring.io/guides
 https://spring.io/guides/gs/rest-service/
 
 https://spring.io/guides/gs/reactive-rest-service/
+
+https://spring.io/guides/gs/graphql-server/
