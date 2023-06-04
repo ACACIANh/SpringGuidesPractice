@@ -7,3 +7,5 @@ https://spring.io/guides/gs/rest-service/
 https://spring.io/guides/gs/reactive-rest-service/
 
 https://spring.io/guides/gs/graphql-server/
+
+https://spring.io/guides/gs/batch-processing/
